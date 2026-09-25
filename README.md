@@ -8,14 +8,14 @@
 
 ### 🚀 Обо мне
 
-- 🔭 Сейчас я работаю над [BotPool](https://github.com/Sheba1301/BotPool) — Это мой основной проект по автоматизации ботов Minecraft.
-- 🌱 Я изучаю: **C#**
+- 🔭 Сейчас я работаю над -
+- 🌱 Я изучаю: **C# ASP.NET Core**
 - 👯 Открыт к сотрудничеству по проектам, связанным с C# и игровыми ботами.
-- 💬 Интересно поговорить о оптимизации поиска данных из каталога.
+- 💬 Интересно поговорить о оптимизации баз данных.
 - 📫 Как связаться:  
   - Telegram: [@Feykomet12](https://t.me/Feykomet12)  
   - Email: [feykometmail@gmail.com](mailto:feykometmail@gmail.com)
-- ⚡ Хочу в будущем изучить: **Elixir**, **Avalonia UI**, **MySQL**
+- ⚡ Хочу в будущем изучить: **Flutter and Dart** или **.NET MAUI**, **PostgreSQL**
 
 ---
 
